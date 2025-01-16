@@ -1,6 +1,6 @@
 # Configuração do Docker no IntelliJ IDEA
 
-Este guia explica como configurar e utilizar o Docker dentro do IntelliJ IDEA para iniciar o **pgAdmin** e o **Postgres** utilizando o arquivo `docker-compose.yml`.
+Explicando como configurar e utilizar o Docker dentro do IntelliJ IDEA para iniciar o **pgAdmin** e o **Postgres** utilizando o arquivo `docker-compose.yml`.
 
 ---
 
